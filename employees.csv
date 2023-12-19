@@ -1,0 +1,8 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,HIRE_DATE,JOB_ID,SALARY,COMMISSION_PCT,MANAGER_ID,DEPARTMENT_ID,Location
+101,John,Doe,john.doe@email.com,123-456-7890,1/1/2022,IT_PROG,5000,,102,10,New York
+102,Jane,Smith,jane.smith@email.com,987-654-3210,2/1/2022,HR_REP,6000,,101,20,San Francisco
+103,Bob,Johnson,bob.johnson@email.com,111-222-3333,3/1/2022,SA_REP,7000,0.1,102,30,Los Angeles
+104,Alice,Williams,alice.williams@email.com,,4/1/2022,SA_REP,8000,0.2,103,20,Chicago
+105,Chris,Miller,chris.miller@email.com,999-888-7777,5/1/2022,IT_PROG,5500,,102,10,New York
+106,Mary,Brown,mary.brown@email.com,333-444-5555,6/1/2022,HR_REP,6500,,101,20,San Francisco
+107,David,Clark,david.clark@email.com,777-888-9999,7/1/2022,SA_REP,7500,0.15,103,30,Los Angeles
